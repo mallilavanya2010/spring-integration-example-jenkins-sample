@@ -8,6 +8,7 @@ public class SpringIntegrationExampleJenkinsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringIntegrationExampleJenkinsApplication.class, args);
+		System.out.println("Hello Mallik");
 	}
 
 }
